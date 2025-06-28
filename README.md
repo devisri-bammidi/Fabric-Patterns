@@ -14,3 +14,8 @@ Since the dataset is too large to be stored directly in GitHub, you can download
 ## 🚀 Running the Project
 ```bash
 python fabric_classification.py
+
+## 📄 Project Documentation
+For detailed information about this project, refer to the documentation:
+
+📂 **Documentation File:** [`Pattern_doc.pdf`](Pattern_doc.pdf)
